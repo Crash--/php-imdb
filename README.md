@@ -3,7 +3,7 @@ PHP IMDb
 
 A PHP 5.3 library for scraping IMDb, strongly inspired by [imdb](https://github.com/ariejan/imdb).
 
-[![Build Status](https://secure.travis-ci.org/crash--/php-imdb.png)](http://travis-ci.org/crash--/php-imdb)
+[![Build Status](https://secure.travis-ci.org/Crash--/php-imdb.png?branch=master)](https://travis-ci.org/Crash--/php-imdb)
 
 ## Installation
 
